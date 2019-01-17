@@ -11,9 +11,16 @@ Clean Code 定義是
 
 **文件在 Python 是很重要的，但 `註解` 不能當做文件，文件的寫法可以參照下面的範例 (寫做什麼 > 寫怎麼做)**
 
+* [sphinx](http://www.sphinx-doc.org/en/master/) Docstring 文件化
+
 **可以使用工具來讓 Code Layout** 變得更好， Clean Code 強調開發者發心思在品質與解決的問題，不要花太多心思在 code layout, formatting
 
 所以可以使用工具來幫忙做 Code layout 的部分
+
+* [black](https://github.com/ambv/black)
+* [Mypy](http://mypy-lang.org/)
+* pylint
+* [Makefile自動化](https://github.com/soft-reading/cleancodepython/tree/master/ch01#%E8%87%AA%E5%8B%95%E5%8C%96%E6%AA%A2%E6%9F%A5)
 
 ## The meaning of clean code
 
