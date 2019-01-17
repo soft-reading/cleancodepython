@@ -1,4 +1,19 @@
-# Introduction, Code Formattin1g, and Tools
+# Introduction, Code Formatting, and Tools
+
+## TL;DR;
+
+Clean Code 定義是
+
+* 好維護
+* 好解讀
+
+**基於這個定義每次 `sprint` 的開發時程是可以被預測的**
+
+**文件在 Python 是很重要的，但 `註解` 不能當做文件，文件的寫法可以參照下面的範例 (寫做什麼 > 寫怎麼做)**
+
+**可以使用工具來讓 Code Layout** 變得更好， Clean Code 強調開發者發心思在品質與解決的問題，不要花太多心思在 code layout, formatting
+
+所以可以使用工具來幫忙做 Code layout 的部分
 
 ## The meaning of clean code
 
